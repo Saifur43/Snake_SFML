@@ -1,1 +1,1 @@
-A Simple Snake Game Built with C++(SFML Library)
+A Simple Snake Game Built in C++(SFML Library)
